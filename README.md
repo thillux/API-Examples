@@ -1,4 +1,4 @@
 API-Examples
 ============
 
-some little code snippets on who a use some C/C++ APIs
+some little code snippets on how to use some C/C++ APIs
